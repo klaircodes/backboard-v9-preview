@@ -1,0 +1,59 @@
+Photography via Wikimedia Commons
+
+
+# Section photography, 21 Sep 2026, Wikimedia Commons featured and quality images
+deploy.jpg: Bhupathipalem Reservoir Dam top-down aerial view 19.jpg by Saiphani02, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bhupathipalem_Reservoir_Dam_top-down_aerial_view_19.jpg
+who-1.jpg: Cuernos del Paine in Torres del Paine National Park.jpg by Pedro Szekely from Los Angeles, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg
+who-2.jpg: Suðuroy 11.jpg by kallerna, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Su%C3%B0uroy_11.jpg
+who-3.jpg: Coesfeld, Harle, Windenergieanlage -- 2024 -- 4384.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Coesfeld,_Harle,_Windenergieanlage_--_2024_--_4384.jpg
+who-4.jpg: 006 Dune 45 in Sossusvlei at sunrise Photo by Giles Laurent.jpg by Giles Laurent, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:006_Dune_45_in_Sossusvlei_at_sunrise_Photo_by_Giles_Laurent.jpg
+news-1.jpg: Morning fog over Keravanjoki river in Vantaa, Finland, 2021 October.jpg by Ximonic (Simo Räsänen), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Morning_fog_over_Keravanjoki_river_in_Vantaa,_Finland,_2021_October.jpg
+news-2.jpg: Poplar Sunset Douar Chiker Morocco Nov25 A7CR 09360.jpg by Timothy A, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Poplar_Sunset_Douar_Chiker_Morocco_Nov25_A7CR_09360.jpg
+news-3.jpg: Vista aérea del suroeste de Islandia, 2014-08-13, DD 009.JPG by Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_del_suroeste_de_Islandia,_2014-08-13,_DD_009.JPG
+news-4.jpg: Lake Clearwater, Canterbury, New Zealand 02.jpg by Michal Klajban, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake_Clearwater,_Canterbury,_New_Zealand_02.jpg
+news-5.jpg: Во шумата на Баба 2015.jpg by Darkocv, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:%D0%92%D0%BE_%D1%88%D1%83%D0%BC%D0%B0%D1%82%D0%B0_%D0%BD%D0%B0_%D0%91%D0%B0%D0%B1%D0%B0_2015.jpg
+
+# Hero, 23 Sep 2026
+hero-kepler.jpg: Kepler-16.jpg by NASA/JPL-Caltech, Public domain, https://commons.wikimedia.org/wiki/File:Kepler-16.jpg
+hero-apollo.jpg: 2023-01-19 Temple of Apollo, Side, Turkey 3.jpg by Maksym Kozlenko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-01-19_Temple_of_Apollo,_Side,_Turkey_3.jpg
+
+# Archive plates, 25 Sep 2026. Brand imagery: the Renaissance archive, rasterized.
+plate-pantheon.jpg: Giovanni Battista Piranesi, Det indre af Pantheon, 1768, KKSgb9860-86, Statens Museum for Kunst, Public domain, https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Det_indre_af_Pantheon,_1768,_KKSgb9860-86,_Statens_Museum_for_Kunst.jpg
+plate-capital.jpg: Blad met de plattegrond, het kapiteel en het basement van een Corinthische zuil naar Vitruvius, RP-P-OB-8108, Rijksmuseum, CC0, https://commons.wikimedia.org/wiki/File:Blad_met_de_plattegrond,_het_kapiteel_en_het_basement_van_een_Corinthische_zuil_naar_Vitruvius_Capitvli_corinthii_abac_(titel_op_object),_RP-P-OB-8108.jpg
+
+# Blog tiles, 25 Sep 2026. Piranesi, Vasi, candelabri, cippi and Le Antichita Romane. Cropped square to the object.
+tile-pilaster.jpg: Avanzo di un pilastro con varj intrecci d'ornamenti 1780 barcode (ca. 1780).jpg Public domain, https://commons.wikimedia.org/wiki/File:Avanzo_di_un_pilastro_con_varj_intrecci_d%27ornamenti_1780_barcode_(ca._1780).jpg
+tile-candelabrum.jpg: Giovanni Battista Piranesi, Marmorkandelaber, dekoreret med tyrehoveder, , KKSgb9874-25, Statens Museum for Kunst.jpg Public domain, https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Marmorkandelaber,_dekoreret_med_tyrehoveder,_,_KKSgb9874-25,_Statens_Museum_for_Kunst.jpg
+tile-warwick.jpg: Giovanni Battista Piranesi, Den såkaldte Warwick-vase, set fra siden, , KKSgb9874-4, Statens Museum for Kunst.jpg Public domain, https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Den_s%C3%A5kaldte_Warwick-vase,_set_fra_siden,_,_KKSgb9874-4,_Statens_Museum_for_Kunst.jpg
+tile-urn.jpg: Giovanni Battista Piranesi, Stor urne dekoreret med oksehoveder og frugtguirlander, , KKSgb9874-36, Statens Museum for Kunst.jpg Public domain, https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Stor_urne_dekoreret_med_oksehoveder_og_frugtguirlander,_,_KKSgb9874-36,_Statens_Museum_for_Kunst.jpg
+tile-masks.jpg: Giovanni Battista Piranesi, Marmorvase, dekoreret med fire masker, som repræsenterer årstiderne og fire livsaldre, , KKSgb9874-22, Statens Museum for Kunst.jpg Public domain, https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Marmorvase,_dekoreret_med_fire_masker,_som_repr%C3%A6senterer_%C3%A5rstiderne_og_fire_livsaldre,_,_KKSgb9874-22,_Statens_Museum_for_Kunst.jpg
+tile-altar.jpg: Antiek altaar Vazen, kandelaars, grafstenen, sarcofagen, tripods, lampen en ornamenten ontworpen en gegraveerd door Giovanni Battista Piranesi (serietitel) Vasi, candelabri, cippi, sarcofagi, tripodi, lucerne, ed ornam, RP-P-2016-2422.jpg CC0, https://commons.wikimedia.org/wiki/File:Antiek_altaar_Vazen,_kandelaars,_grafstenen,_sarcofagen,_tripods,_lampen_en_ornamenten_ontworpen_en_gegraveerd_door_Giovanni_Battista_Piranesi_(serietitel)_Vasi,_candelabri,_cippi,_sarcofagi,_tripodi,_lucerne,_ed_ornam,_RP-P-2016-2422.jpg
+tile-tripod.jpg: Tripode Antico gentilmente ornato si conserva presso il medesimo Signore in Inghilterra. Vaso antico, che si vede nel Museo dell'Autore. Vaso antico, che si conserva nel.jpg Public domain, https://commons.wikimedia.org/wiki/File:Tripode_Antico_gentilmente_ornato_si_conserva_presso_il_medesimo_Signore_in_Inghilterra._Vaso_antico,_che_si_vede_nel_Museo_dell%27Autore._Vaso_antico,_che_si_conserva_nel.jpg
+tile-merman.jpg: Giovanni Battista Piranesi, Sokkel til en kandelaber, med en havmand flankeret af slanger og gedehoveder, , KKSgb9874-89, Statens Museum for Kunst.jpg Public domain, https://commons.wikimedia.org/wiki/File:Giovanni_Battista_Piranesi,_Sokkel_til_en_kandelaber,_med_en_havmand_flankeret_af_slanger_og_gedehoveder,_,_KKSgb9874-89,_Statens_Museum_for_Kunst.jpg
+
+# Application photographs, 25 Sep 2026. Unsplash via Wikimedia Commons, CC0.
+app-rcli.jpg: 100DaysOfCode (Unsplash).jpg CC0, https://commons.wikimedia.org/wiki/File:100DaysOfCode_(Unsplash).jpg
+app-studio.jpg: Designer's two-screen setup (Unsplash).jpg CC0, https://commons.wikimedia.org/wiki/File:Designer%27s_two-screen_setup_(Unsplash).jpg
+app-nash.jpg: Desks in an open office space (Unsplash).jpg CC0, https://commons.wikimedia.org/wiki/File:Desks_in_an_open_office_space_(Unsplash).jpg
+
+# Footer tailpiece, 25 Sep 2026
+frieze.jpg: Reliëf met asvaas en twee schenkende putti Vazen, kandelaars, grafstenen, sarcofagen, trip CC0, https://commons.wikimedia.org/wiki/File:Reli%C3%ABf_met_asvaas_en_twee_schenkende_putti_Vazen,_kandelaars,_grafstenen,_sarcofagen,_tripods,_lampen_en_ornamenten_ontworpen_en_gegraveerd_door_Giovanni_Battista_Piranesi_(serietitel)_Vasi,_candelabri,_cippi,_sarcofag,_RP-P-OB-39.580.jpg
+
+plate-colosseum.jpg: Veduta interna del Colosseo ca. 1780 barcode (ca. 1780).jpg Public domain, https://commons.wikimedia.org/wiki/File:Veduta_interna_del_Colosseo_ca._1780_barcode_(ca._1780).jpg
+# Blog photographs, 29 Sep 2026. Contemporary subjects; one pillar kept.
+blog-cables.jpg: Cable closet bh.jpg Public domain, https://commons.wikimedia.org/wiki/File:Cable_closet_bh.jpg
+blog-watch.jpg: 17-jewel-lady-watch-inside-view-01.jpg CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:17-jewel-lady-watch-inside-view-01.jpg
+blog-code.jpg: Macro laptop coding (Unsplash).jpg CC0, https://commons.wikimedia.org/wiki/File:Macro_laptop_coding_(Unsplash).jpg
+blog-books.jpg: Books in stack with lamps (Unsplash).jpg CC0, https://commons.wikimedia.org/wiki/File:Books_in_stack_with_lamps_(Unsplash).jpg
+blog-meter.jpg: Mechanical electricity meter 1965 (1).jpg Public domain, https://commons.wikimedia.org/wiki/File:Mechanical_electricity_meter_1965_(1).jpg
+blog-type.jpg: Old Continental typewriter closeup.jpg CC BY 2.0, https://commons.wikimedia.org/wiki/File:Old_Continental_typewriter_closeup.jpg
+blog-span.jpg: Sydney (AU), Harbour Bridge -- 2019 -- 2154.jpg CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sydney_(AU),_Harbour_Bridge_--_2019_--_2154.jpg
+# V7 collage fragments, 29 Sep 2026. Contemporary hardware.
+frag-dish.jpg: Lovell Telescope Rear.jpg CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lovell_Telescope_Rear.jpg
+frag-launch.jpg: Apollo 11 Launch - GPN-2000-000630.jpg Public domain, https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg
+frag-array.jpg: U.S. Route 60 Large Array (24561221889).jpg CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:U.S._Route_60_Large_Array_(24561221889).jpg
+# Static datamosh derivatives, 5 Oct 2026. mosh-*.jpg are baked block-displacement/smear treatments of
+# files credited above (no new sources, no AI generation): mosh-dish < frag-dish, mosh-launch < frag-launch,
+# mosh-array < frag-array, mosh-cables < blog-cables, mosh-span < blog-span, mosh-type < blog-type,
+# mosh-watch < blog-watch, mosh-peak < who-1.
+# mosh-meter < blog-meter, same baked treatment, 5 Oct 2026.
